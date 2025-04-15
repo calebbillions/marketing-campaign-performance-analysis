@@ -43,17 +43,17 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 ## <a name="tools-and-methodology"></a>Tools and Methodology
 ## Tools
-  # MS Powerpoint:
+  ## MS Powerpoint:
   Designed the initial wireframe for the dashboard layout.
 
-  # Power Query
+  ## Power Query
   Imported the complete dataset.
 
   Restructured the dataset into a star schema by creating separate tables for improved performance.
 
   Performed data transformations, calculations, and table joins.
 
-  # PowerBI
+  ## PowerBI
   Developed calculated measures using DAX.
 
   Created the necessary visualizations and charts.
@@ -61,7 +61,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
   Assembled all components into the final interactive dashboard.
 
 ## Methodology
-  # Data Preparation:
+  ## Data Preparation:
 
   Import the full dataset into Power Query.
 
@@ -69,7 +69,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Establish relationships between tables and apply necessary aggregations.
 
-  # Data Cleaning & Transformation:
+  ## Data Cleaning & Transformation:
 
   Cleanse the dataset by identifying and resolving data inconsistencies.
 
@@ -77,7 +77,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Validate data integrity through cross-checking against expected results.
 
-  # Calculation & Analysis:
+  ## Calculation & Analysis:
 
   Use Power Query to create preliminary calculations during data preparation.
 
@@ -85,13 +85,13 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Validate and verify calculated metrics to ensure reliability.
 
-  # Visualization & Reporting:
+  ## Visualization & Reporting:
 
   Design and build interactive visualizations and charts in PowerBI.
 
-    Integrate visual components into a comprehensive dashboard that communicates actionable insights.
+  Integrate visual components into a comprehensive dashboard that communicates actionable insights.
 
-    Prepare the final presentation, incorporating visual outputs and key findings into a structured PowerPoint deck.
+  Prepare the final presentation, incorporating visual outputs and key findings into a structured PowerPoint deck.
 
 
 
