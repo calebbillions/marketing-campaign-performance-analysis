@@ -3,23 +3,23 @@ This repository contains an in-depth analysis of marketing campaigns run on Face
 
 
 ## **Table of Contents**
-  [Overview](#overview)
+  - [Overview](#overview)
 
-  [Problem Statement](#problem-statement)
+  - [Problem Statement](#problem-statement)
 
-  [Tools and Methodology](#tools-and-methodology)
+  - [Tools and Methodology](#tools-and-methodology)
 
-  [Dashboard](#dashboard)
+  - [Dashboard](#dashboard)
 
-  [Key Analysis Findings](#key-analysis-findings)
+  - [Key Analysis Findings](#key-analysis-findings)
 
-  [Insights from Analysis](#insights-from-analysis)
+  - [Insights from Analysis](#insights-from-analysis)
 
-  [Business Questions and Answers](#business-questions-and-answers)
+  - [Business Questions and Answers](#business-questions-and-answers)
 
-  [Recommendations](#recommendations)
+  - [Recommendations](#recommendations)
 
-  [Conclusion](#conclusion)
+  - [Conclusion](#conclusion)
 
 
 
@@ -43,25 +43,15 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 ## <a name="tools-and-methodology"></a>Tools and Methodology
 ## Tools
-  ### MS Powerpoint:
-  Designed the initial wireframe for the dashboard layout.
+  MS Powerpoint: I designed the initial wireframe for the dashboard layout.
 
-  ### Power Query
-  Imported the complete dataset.
+  Power Query: I imported the complete dataset. Then, I restructured the dataset into a star schema by creating separate tables for improved performance. I performed data     
+  transformations, calculations, and table joins.
 
-  Restructured the dataset into a star schema by creating separate tables for improved performance.
-
-  Performed data transformations, calculations, and table joins.
-
-  ### PowerBI
-  Developed calculated measures using DAX.
-
-  Created the necessary visualizations and charts.
-
-  Assembled all components into the final interactive dashboard.
+  PowerBI: I developed calculated measures using DAX. Then, I created the necessary visualizations and charts. I ssembled all components into the final interactive dashboard.
 
 ## Methodology
-  ### Data Preparation:
+  Data Preparation:
 
   Import the full dataset into Power Query.
 
