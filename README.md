@@ -43,45 +43,20 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 ## <a name="tools-and-methodology"></a>Tools and Methodology
 - ## Tools
-  -  MS Powerpoint: I designed the initial wireframe for the dashboard layout.
+  -  MS Powerpoint: I developed the initial wireframe and visual layout for the dashboard to guide design and functionality decisions.
 
-  -  Power Query: I imported the complete dataset. Then, I restructured the dataset into a star schema by creating separate tables for improved performance. I performed data     
-  transformations, calculations, and table joins.
-
-  -  PowerBI: I developed calculated measures using DAX. Then, I created the necessary visualizations and charts. I ssembled all components into the final interactive dashboard.
+  -  Power Query: I imported the complete dataset, including all columns, into a single table. I transformed the raw dataset into a star schema by splitting it into multiple related tables, which improved performance and manageability. I performed key data transformations, such as joining tables and executing necessary calculations.
+    
+  -  PowerBI: I utilized DAX formulas to calculate essential performance measures like CPC, CTR, and ROI. I created interactive charts and visualizations to represent the analytical findings. I integrated all visuals and metrics into a cohesive, interactive dashboard.
 
 - ## Methodology
-  -  Data Preparation:
+  -  Data Preparation: I loaded the complete dataset into Power Query, ensuring all columns were available for analysis. I restructured the dataset into a star schema by breaking the main table into a central fact table and related dimension tables. I established clear relationships between these tables to optimize query performance and maintain data integrity.
 
-  Import the full dataset into Power Query.
+  -  Data Cleaning & Transformation: I identified inconsistencies in the date formats and corrected these by splitting and merging date columns to create a uniform format. I conducted thorough data validation, cross-checking data points and calculated metrics against expected business outcomes. I addressed any anomalies or missing values to ensure the dataset was reliable for further analysis. I executed preliminary calculations during the data preparation phase, ensuring computed fields were correctly reflected across the star schema.
 
-  Restructure the dataset by breaking the main table into multiple related tables (star schema) to enhance processing speed and query performance.
+  -  Calculation & Analysis: I leveraged DAX to compute advanced metrics, such as CPC, CTR, and ROI. I created both calculated columns and measures to enable dynamic and interactive data analysis. I continuously validated the computed metrics to ensure accuracy and consistency across all visualizations.
 
-  Establish relationships between tables and apply necessary aggregations.
-
-  -  Data Cleaning & Transformation:
-
-  Cleanse the dataset by identifying and resolving data inconsistencies.
-
-  Standardize date formats by splitting and merging date columns to ensure consistency.
-
-  Validate data integrity through cross-checking against expected results.
-
-  -  Calculation & Analysis:
-
-  Use Power Query to create preliminary calculations during data preparation.
-
-  Utilize DAX in PowerBI to develop key performance measures required for analysis (e.g., CPC, CTR, ROI).
-
-  Validate and verify calculated metrics to ensure reliability.
-
-  -  Visualization & Reporting:
-
-  Design and build interactive visualizations and charts in PowerBI.
-
-  Integrate visual components into a comprehensive dashboard that communicates actionable insights.
-
-  Prepare the final presentation, incorporating visual outputs and key findings into a structured PowerPoint deck.
+  -  Visualization & Reporting: I designed a 3 page interactive dashboard layout in PowerBI to provide an intuitive user interface for stakeholders.
 
 
 
