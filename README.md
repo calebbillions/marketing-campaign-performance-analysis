@@ -42,16 +42,16 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 ## <a name="tools-and-methodology"></a>Tools and Methodology
-## Tools
-  MS Powerpoint: I designed the initial wireframe for the dashboard layout.
+- ## Tools
+  -  MS Powerpoint: I designed the initial wireframe for the dashboard layout.
 
-  Power Query: I imported the complete dataset. Then, I restructured the dataset into a star schema by creating separate tables for improved performance. I performed data     
+  -  Power Query: I imported the complete dataset. Then, I restructured the dataset into a star schema by creating separate tables for improved performance. I performed data     
   transformations, calculations, and table joins.
 
-  PowerBI: I developed calculated measures using DAX. Then, I created the necessary visualizations and charts. I ssembled all components into the final interactive dashboard.
+  -  PowerBI: I developed calculated measures using DAX. Then, I created the necessary visualizations and charts. I ssembled all components into the final interactive dashboard.
 
-## Methodology
-  Data Preparation:
+- ## Methodology
+  -  Data Preparation:
 
   Import the full dataset into Power Query.
 
@@ -59,7 +59,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Establish relationships between tables and apply necessary aggregations.
 
-  ### Data Cleaning & Transformation:
+  -  Data Cleaning & Transformation:
 
   Cleanse the dataset by identifying and resolving data inconsistencies.
 
@@ -67,7 +67,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Validate data integrity through cross-checking against expected results.
 
-  ### Calculation & Analysis:
+  -  Calculation & Analysis:
 
   Use Power Query to create preliminary calculations during data preparation.
 
@@ -75,7 +75,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
   Validate and verify calculated metrics to ensure reliability.
 
-  ### Visualization & Reporting:
+  -  Visualization & Reporting:
 
   Design and build interactive visualizations and charts in PowerBI.
 
