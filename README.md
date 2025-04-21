@@ -65,7 +65,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 ## <a name="dashboard"></a>Dashboard
 Cover Page
--  ![Image Alt]([(https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/58d4bfda49ac72c58b52c1a236dee89e35894972/CoverPage.JPG)])
+-  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/58d4bfda49ac72c58b52c1a236dee89e35894972/CoverPage.JPG)
   -  
 
 
