@@ -64,14 +64,17 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 ## <a name="dashboard"></a>Dashboard
-Cover Page
+### Cover Page
 -  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/58d4bfda49ac72c58b52c1a236dee89e35894972/CoverPage.JPG)
-  -  
 
+### Campaign KPIs & Metrics
+-  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Campaign%20KPIs%20and%20Metrics.JPG)
 
+### Ad Trends
+-  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Ad%20Trends.JPG)
 
-
-
+### Canpaign & Ad Performance
+-  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Camapign%20%26%20Ad%20Performance.JPG)
 
 
 
