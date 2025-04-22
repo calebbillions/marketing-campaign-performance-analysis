@@ -124,25 +124,24 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
    -   Desktop consistently outperformed mobile across all campaigns. For the Summer campaign, desktop delivered an ROI of 1359% compared to 1257% on mobile. A similar pattern followed in Spring (941% vs. 866%) and Fall (887% vs. 798%). When looking at ROI by channel, Pinterest consistently led across all campaigns. In the Summer campaign, Pinterest drove a massive 2118% ROI, followed by Instagram at 1379% and Facebook at 884%. The trend continued in Spring with Pinterest at 2303%, Instagram at 934%, and Facebook at 398%. In Fall, Pinterest again led with 2082%, while Instagram followed at 833%, and Facebook at 357%.
 
 10. How does spend correlate with conversion value across different campaigns?
-   -   As Spend increases, Total conversion value also tends to increase. This suggests that higher investment (Spend) is often accompanied by higher returns (Conversion value), although the relationship is not perfectly linear (there’s a lot of scatter). The analysis of Spend and Total conversion value across campaigns reveals a positive correlation, where higher investment generally leads to higher returns. However, the relationship is not perfectly linear, as some lower spend levels within observed clusters yielded stronger returns than higher spend levels, indicating inefficiencies in budget allocation.
+    -   As Spend increases, Total conversion value also tends to increase. This suggests that higher investment (Spend) is often accompanied by higher returns (Conversion value), although the relationship is not perfectly linear (there’s a lot of scatter). The analysis of Spend and Total conversion value across campaigns reveals a positive correlation, where higher investment generally leads to higher returns. However, the relationship is not perfectly linear, as some lower spend levels within observed clusters yielded stronger returns than higher spend levels, indicating inefficiencies in budget allocation.
 
 
 #### Time Series Analysis:
 11. Are there any noticeable trends or seasonal effects in ad performance over time?
-   -   The ad performance data reveals seasonal trends both in terms of engagement and conversion. In March (Q1), the Collection ad garnered around 45,524 clicks from approximately 3.49 million impressions, resulting in 8,320 conversions, while the Discount ad showed a slightly different pattern with 32,040 clicks but a higher conversion count of 9,700 despite slightly fewer impressions. A noticeable shift occurs in Q3, where engagement begins to climb. In September, the Collection ad’s click volume jumps to 63,420, accompanied by almost 4.47 million impressions, though conversions slightly dip to 7,680. The Discount ad in September also registers a substantial increase, reaching 48,340 clicks and 9,916 conversions from about 3.98 million impressions. 
+    -    The ad performance data reveals seasonal trends both in terms of engagement and conversion. In March (Q1), the Collection ad garnered around 45,524 clicks from approximately 3.49 million impressions, resulting in 8,320 conversions, while the Discount ad showed a slightly different pattern with 32,040 clicks but a higher conversion count of 9,700 despite slightly fewer impressions. A noticeable shift occurs in Q3, where engagement begins to climb. In September, the Collection ad’s click volume jumps to 63,420, accompanied by almost 4.47 million impressions, though conversions slightly dip to 7,680. The Discount ad in September also registers a substantial increase, reaching 48,340 clicks and 9,916 conversions from about 3.98 million impressions. 
 The upward trend continues into Q4, with October and November exhibiting some of the highest performance figures of the year. In October, the Collection ad reaches 67,876 clicks with 4.71 million impressions and 9,496 conversions, and the Discount ad likewise performs robustly with over 50,000 clicks and 11,128 conversions. In November, performance remains strong, with both ads maintaining high levels of engagement and conversion. These increases in clicks and impressions in Q3 and Q4 indicate that later in the year, possibly due to seasonal promotions or heightened consumer activity, the ads resonate more with the target audience, leading to improved overall performance.
 
 
 
-
-
-
-
-
-
 ## <a name="recommendations"></a>Recommendations
-
-
+1. Other Campaigns should focus on implementing the strategy used for the Fall Campaigns, optimizing for engagements rather than just reach.
+2. To maximize campaign effectiveness, we should consider optimizing the Mobile experience for better conversions while exploring whether discount ads could perform well on Desktop, where users are already converting at a higher rate.
+3.  To maximize returns, refining the "Collection" ad or blending "Discount" strategies into it could unlock greater performance, also  increasing investment in the Discount ad since it is driving the highest profitability and efficiency.
+4.  Allocate more budget to Pinterest, as it consistently generates the highest ROI, making it the most valuable platform for conversions.
+5.  Re-evaluate Facebook’s ad strategy, as it has the lowest ROI share. Testing new creatives, refining audience targeting, or shifting budget to better-performing channels may improve its performance.
+6.  For the Trends in Ad engagements per month, more of the ad budget should be reallocated into Q3 and Q4, when both clicks and conversions naturally climb. By increasing spend and broadening reach during these high‑engagement months, we will capture peak consumer interest and drive even greater returns.
+7.  First, reallocate more of our budget toward the "Ad–Desktop" combinations that consistently deliver the highest conversion rates and ROI during peak periods. By prioritizing spend where it works best, we will maximize return without simply pouring more money into underperforming channels.
 
 
 
