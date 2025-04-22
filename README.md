@@ -30,7 +30,7 @@ Our company has been executing a series of dynamic marketing campaigns across po
 
 ## <a name="problem-statement"></a>Problem Statement
 Executive leadership, marketing directors, and financial controllers require a comprehensive analysis of our multi-channel campaigns. 
-This analysis will evaluate key performance metrics—impressions, clicks, conversions, CPC, CTR, and ROI—to identify our top-performing campaigns and platforms. Additionally, it will consolidate insights on geographical engagement, device performance, and ad-level effectiveness, as well as reveal any spend-to-conversion correlations and time-based trends. The goal is to provide clear, actionable recommendations that support strategic decision-making across all levels of the organization, from high-level executive planning to tactical marketing optimization.
+This analysis will evaluate key performance metrics;impressions, clicks, conversions, CPC, CTR, and ROI—to identify our top-performing campaigns and platforms. Additionally, it will consolidate insights on geographical engagement, device performance, and ad-level effectiveness, as well as reveal any spend-to-conversion correlations and time-based trends. The goal is to provide clear, actionable recommendations that support strategic decision-making across all levels of the organization, from high-level executive planning to tactical marketing optimization.
 
 
 
@@ -134,7 +134,7 @@ The upward trend continues into Q4, with October and November exhibiting some of
 
 
 ## <a name="conclusion"></a>Conclusion
--  This analysis explores key dimensions of campaign performance, including channel effectiveness, device efficiency, ad-level impact, seasonal trends, and ROI distribution.  It highlights high-ROI opportunities, seasonal trends, and cost-efficient strategies — providing clear guidance to optimize spend, improve targeting, and maximize overall campaign profitability.
+-  This analysis explores key dimensions of campaign performance, including channel effectiveness, device efficiency, ad-level impact, seasonal trends, and ROI distribution.  It highlights high-ROI opportunities, seasonal trends, and cost-efficient strategies; providing clear guidance to optimize spend, improve targeting, and maximize overall campaign profitability.
 
 
 
