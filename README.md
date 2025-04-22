@@ -36,11 +36,6 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 
-
-
-
-
-
 ## <a name="tools-and-methodology"></a>Tools and Methodology
 - ## Tools
   -  MS Powerpoint: I developed the initial wireframe and visual layout for the dashboard to guide design and functionality decisions.
@@ -60,21 +55,18 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 
-
-
-
 ## <a name="dashboard"></a>Dashboard
 ### Cover Page
--  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/58d4bfda49ac72c58b52c1a236dee89e35894972/CoverPage.JPG)
+-  ![Image](https://github.com/user-attachments/assets/7fea0b1a-9dee-4b37-9d71-e99f2dfa3a05)
 
 ### Campaign KPIs & Metrics
--  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Campaign%20KPIs%20and%20Metrics.JPG)
+-  ![Image](https://github.com/user-attachments/assets/67ce56d9-551c-4677-9868-33ada1501c89)
 
-### Ad Trends
--  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Ad%20Trends.JPG)
+### Ad Trends & ROI
+-  ![Image](https://github.com/user-attachments/assets/34be9e66-f866-499e-99ca-42abb7e0bab1)
 
 ### Canpaign & Ad Performance
--  ![Image Alt](https://github.com/calebbillions/marketing-campaign-performance-analysis/blob/63e19ea9f44265413b6be3e0e301c479cb09004a/Camapign%20%26%20Ad%20Performance.JPG)
+-  ![Image](https://github.com/user-attachments/assets/1fe237e4-f6e1-4531-b4d4-6d36334ef4f2)
 
 
 
@@ -98,6 +90,47 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 ## <a name="business-questions-and-answers"></a>Business Questions and Answers
+#### Campaign Performance:
+1. Which campaign generated the highest number of impressions, clicks, and conversions?
+   -   The Fall Campaign generated the highest engagements all round with impressions (25M), Clicks (340K) and Conversions (60k)
+
+2. What is the average cost-per-click (CPC) and click-through rate (CTR) for each campaign?
+   -   Fall led in engagement with a 1.32% CTR, and also had the highest CPC at £0.93. Spring showed a good balance with 1.21% CTR and £0.86 CPC, while Summer had the lowest         CTR at 1.12% and a CPC of £0.88, making it the least efficient overall.
+
+#### Channel Effectiveness:
+3. Which channel has the highest ROI?
+   -   Pinterest leads with a 2151% ROI, significantly outperforming Instagram (980%) and Facebook (476%). This suggests Pinterest as the most cost-effective and high-  performing channel for driving returns.
+
+4. How do impressions, clicks, and conversions vary across different channels?
+   -   Instagram drove strong engagement and results with 19.36M Impressions, 275K clicks, and 62K conversions, leading in conversions overall. Facebook had the highest Impressions (21.76M) and 280K clicks, but slightly fewer conversions at 53K. Pinterest, while having the lowest Impressions (17.64M), still achieved 172K clicks and 46K conversions, showing efficient performance relative to reach.
+
+#### Device Performance:
+5. How do ad performances compare across different devices (mobile, desktop, tablet)?
+   -   For the Collection ad, Mobile generated 19 million impressions, surpassing	 Desktop's 13 million. Similarly, the Discount ad, which only ran on mobile, garnered 16 million impressions while on Desktop it garnered 10 million impressions.
+
+6. Which device type generates the highest conversion rates?
+   -   Yet, despite Mobile's wider reach, its conversion rate sits at 20%, while Desktop boasts a higher 24% conversion rate.
+
+#### Ad-Level Analysis:
+7. Which specific ads are performing best in terms of engagement and conversions?
+   -   The Discount ad not only delivered the highest ROI at 1080%, but also converted users at a strong 28% rate. In comparison, the Collection ad, while still effective, achieved a lower ROI of 812% and a conversion rate of 18%.
+
+8. What are the common characteristics of high-performing ads?
+   -   High-performing ads share several key characteristics that drive strong ROI. First, they exhibit notably high conversion rates—for example, the Discount ad on desktop during the summer achieves a 45% conversion rate while the Collection ad on desktop reaches 30% in the same period. Along with these robust conversion rates, these ads maintain low cost per acquisition (CPA) and relatively modest cost per click (CPC), ensuring that each click converts efficiently without overspending. Additionally, high-performing ads yield impressive ROI figures—ranging from around 1200% to over 1400% in the summer—demonstrating that effective spending translates directly into substantial returns. Finally, while performance can vary by device, desktop placements often outperform mobile, indicating that the ad format or user experience on larger screens may contribute to more effective engagement. These combined factors highlight that strategically optimizing for higher conversion rates while keeping acquisition costs low is the key driver behind these exceptional ROI results.
+
+
+#### ROI Calculation:
+9. What is the ROI for each campaign, and how does it compare across different channels and devices?
+   -   Desktop consistently outperformed mobile across all campaigns. For the Summer campaign, desktop delivered an ROI of 1359% compared to 1257% on mobile. A similar pattern followed in Spring (941% vs. 866%) and Fall (887% vs. 798%). When looking at ROI by channel, Pinterest consistently led across all campaigns. In the Summer campaign, Pinterest drove a massive 2118% ROI, followed by Instagram at 1379% and Facebook at 884%. The trend continued in Spring with Pinterest at 2303%, Instagram at 934%, and Facebook at 398%. In Fall, Pinterest again led with 2082%, while Instagram followed at 833%, and Facebook at 357%.
+
+10. How does spend correlate with conversion value across different campaigns?
+   -   As Spend increases, Total conversion value also tends to increase. This suggests that higher investment (Spend) is often accompanied by higher returns (Conversion value), although the relationship is not perfectly linear (there’s a lot of scatter). The analysis of Spend and Total conversion value across campaigns reveals a positive correlation, where higher investment generally leads to higher returns. However, the relationship is not perfectly linear, as some lower spend levels within observed clusters yielded stronger returns than higher spend levels, indicating inefficiencies in budget allocation.
+
+
+#### Time Series Analysis:
+11. Are there any noticeable trends or seasonal effects in ad performance over time?
+   -   The ad performance data reveals seasonal trends both in terms of engagement and conversion. In March (Q1), the Collection ad garnered around 45,524 clicks from approximately 3.49 million impressions, resulting in 8,320 conversions, while the Discount ad showed a slightly different pattern with 32,040 clicks but a higher conversion count of 9,700 despite slightly fewer impressions. A noticeable shift occurs in Q3, where engagement begins to climb. In September, the Collection ad’s click volume jumps to 63,420, accompanied by almost 4.47 million impressions, though conversions slightly dip to 7,680. The Discount ad in September also registers a substantial increase, reaching 48,340 clicks and 9,916 conversions from about 3.98 million impressions. 
+The upward trend continues into Q4, with October and November exhibiting some of the highest performance figures of the year. In October, the Collection ad reaches 67,876 clicks with 4.71 million impressions and 9,496 conversions, and the Discount ad likewise performs robustly with over 50,000 clicks and 11,128 conversions. In November, performance remains strong, with both ads maintaining high levels of engagement and conversion. These increases in clicks and impressions in Q3 and Q4 indicate that later in the year, possibly due to seasonal promotions or heightened consumer activity, the ads resonate more with the target audience, leading to improved overall performance.
 
 
 
