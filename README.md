@@ -11,9 +11,7 @@ This repository contains an in-depth analysis of marketing campaigns run on Face
 
   - [Dashboard](#dashboard)
 
-  - [Key Analysis Findings](#key-analysis-findings)
-
-  - [Insights from Analysis](#insights-from-analysis)
+  - [Link to Dashboard](#link-to-dashboard)
 
   - [Business Questions and Answers](#business-questions-and-answers)
 
@@ -70,21 +68,7 @@ This analysis will evaluate key performance metrics—impressions, clicks, conve
 
 
 
-## <a name="key-analysis-findings"></a>Key Analysis Findings
-
-
-
-
-
-
-
-
-
-## <a name="insights-from-analysis"></a>Insights from Analysis
-
-
-
-
+## <a name="link-to-dashboard"></a>Link to Dashboard
 
 
 
@@ -150,7 +134,7 @@ The upward trend continues into Q4, with October and November exhibiting some of
 
 
 ## <a name="conclusion"></a>Conclusion
-
+-  This analysis explores key dimensions of campaign performance, including channel effectiveness, device efficiency, ad-level impact, seasonal trends, and ROI distribution.  It highlights high-ROI opportunities, seasonal trends, and cost-efficient strategies — providing clear guidance to optimize spend, improve targeting, and maximize overall campaign profitability.
 
 
 
