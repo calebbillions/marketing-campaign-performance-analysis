@@ -69,7 +69,7 @@ This analysis will evaluate key performance metrics;impressions, clicks, convers
 
 
 ## <a name="link-to-dashboard"></a>Link to Dashboard
-
+-  This is the link to access the Dashboard; https://app.powerbi.com/view?r=eyJrIjoiZmE2MjJjOTYtMjYwMi00MjdjLThiODMtYTEyMWFmZWNhZTU4IiwidCI6IjA1ODIyZmQwLTE5NmItNDBiMS1hOGE0LTAxMWI1YjVlZjA5NSJ9&embedImagePlaceholder=true&pageName=ReportSectionfd50b3c55a6819a560cb
 
 
 
@@ -125,7 +125,7 @@ The upward trend continues into Q4, with October and November exhibiting some of
 4.  Allocate more budget to Pinterest, as it consistently generates the highest ROI, making it the most valuable platform for conversions.
 5.  Re-evaluate Facebook’s ad strategy, as it has the lowest ROI share. Testing new creatives, refining audience targeting, or shifting budget to better-performing channels may improve its performance.
 6.  For the Trends in Ad engagements per month, more of the ad budget should be reallocated into Q3 and Q4, when both clicks and conversions naturally climb. By increasing spend and broadening reach during these high‑engagement months, we will capture peak consumer interest and drive even greater returns.
-7.  First, reallocate more of our budget toward the "Ad–Desktop" combinations that consistently deliver the highest conversion rates and ROI during peak periods. By prioritizing spend where it works best, we will maximize return without simply pouring more money into underperforming channels.
+7.  Reallocate more of our budget toward the "Ad–Desktop" combinations that consistently deliver the highest conversion rates and ROI during peak periods. By prioritizing spend where it works best, we will maximize return without simply pouring more money into underperforming channels.
 
 
 
