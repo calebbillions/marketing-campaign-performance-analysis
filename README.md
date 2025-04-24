@@ -55,16 +55,16 @@ This analysis will evaluate key performance metrics;impressions, clicks, convers
 
 ## <a name="dashboard"></a>Dashboard
 ### Cover Page
--  ![Image](https://github.com/user-attachments/assets/7fea0b1a-9dee-4b37-9d71-e99f2dfa3a05)
+-  ![Image](https://github.com/user-attachments/assets/b9001322-f68e-48ad-ba9c-5f10352a01db)
 
 ### Campaign KPIs & Metrics
--  ![Image](https://github.com/user-attachments/assets/67ce56d9-551c-4677-9868-33ada1501c89)
+-  ![Image](https://github.com/user-attachments/assets/a68bd012-9669-4f75-8cda-d340d0ff1c3b)
 
 ### Ad Trends & ROI
--  ![Image](https://github.com/user-attachments/assets/34be9e66-f866-499e-99ca-42abb7e0bab1)
+-  ![Image](https://github.com/user-attachments/assets/3c44c9e1-13d9-4e92-8dec-b1a7b258c1c4)
 
 ### Canpaign & Ad Performance
--  ![Image](https://github.com/user-attachments/assets/1fe237e4-f6e1-4531-b4d4-6d36334ef4f2)
+-  ![Image](https://github.com/user-attachments/assets/52639829-4e40-4ab2-b0d9-6956ca328cf4)
 
 
 
