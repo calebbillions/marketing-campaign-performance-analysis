@@ -69,7 +69,7 @@ This analysis will evaluate key performance metrics;impressions, clicks, convers
 
 
 ## <a name="link-to-dashboard"></a>Link to Dashboard
--  This is the link to access the Dashboard; https://app.powerbi.com/view?r=eyJrIjoiZmE2MjJjOTYtMjYwMi00MjdjLThiODMtYTEyMWFmZWNhZTU4IiwidCI6IjA1ODIyZmQwLTE5NmItNDBiMS1hOGE0LTAxMWI1YjVlZjA5NSJ9&embedImagePlaceholder=true&pageName=ReportSectionfd50b3c55a6819a560cb
+-  This is the link to access the Dashboard; https://app.powerbi.com/view?r=eyJrIjoiZmE2MjJjOTYtMjYwMi00MjdjLThiODMtYTEyMWFmZWNhZTU4IiwidCI6IjA1ODIyZmQwLTE5NmItNDBiMS1hOGE0LTAxMWI1YjVlZjA5NSJ9&pageName=ReportSectionb5f0c74e5605f2ba92cb&disablecdnExpiration=1745622071
 
 
 
